@@ -1,0 +1,15 @@
+2026/03/19-18:00:42.667 4824 Reusing MANIFEST C:\Users\H1BRINDES\Desktop\chatbot\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/19-18:00:42.674 4824 Recovering log #17
+2026/03/19-18:00:42.676 4824 Reusing old log C:\Users\H1BRINDES\Desktop\chatbot\.wwebjs_auth\session\Default\Local Storage\leveldb/000017.log 
+2026/03/19-22:00:57.711 3c54 Level-0 table #20: started
+2026/03/19-22:00:57.717 3c54 Level-0 table #20: 13878 bytes OK
+2026/03/19-22:00:57.719 3c54 Delete type=0 #17
+2026/03/19-22:00:57.722 3c54 Compacting 4@0 + 1@1 files
+2026/03/19-22:00:57.728 3c54 Generated table #21@0: 226 keys, 14585 bytes
+2026/03/19-22:00:57.728 3c54 Compacted 4@0 + 1@1 files => 14585 bytes
+2026/03/19-22:00:57.729 3c54 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/19-22:00:57.730 3c54 Delete type=2 #8
+2026/03/19-22:00:57.730 3c54 Delete type=2 #11
+2026/03/19-22:00:57.730 3c54 Delete type=2 #14
+2026/03/19-22:00:57.730 3c54 Delete type=2 #16
+2026/03/19-22:00:57.730 3c54 Delete type=2 #20
